@@ -1,0 +1,8 @@
+#encoding=UTF-8
+#version=1
+org.drools.eclipse.source,7.46.0.Final,plugins/org.drools.eclipse.source_7.46.0.Final.jar,-1,false
+org.guvnor.eclipse.webdav.source,7.46.0.Final,plugins/org.guvnor.eclipse.webdav.source_7.46.0.Final.jar,-1,false
+org.guvnor.tools.source,7.46.0.Final,plugins/org.guvnor.tools.source_7.46.0.Final.jar,-1,false
+org.jbpm.eclipse.source,7.46.0.Final,plugins/org.jbpm.eclipse.source_7.46.0.Final.jar,-1,false
+org.kie.eclipse.navigator.source,7.46.0.Final,plugins/org.kie.eclipse.navigator.source_7.46.0.Final.jar,-1,false
+org.kie.eclipse.source,7.46.0.Final,plugins/org.kie.eclipse.source_7.46.0.Final.jar,-1,false
